@@ -19,9 +19,6 @@
   
   </div>
   
-  ![Snake animation](https://github.com/RafaelDVL/RafaelDvl/blob/output/github-contribution-grid-snake.svg)
-
-
 
 - 🔭 I’m currently working on Web Developer Java Full Stack
 - 🌱 I’m currently learning Angular and Spring
