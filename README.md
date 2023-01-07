@@ -20,7 +20,10 @@
   
   </div>
   <p></p>
-  ![giphy](https://user-images.githubusercontent.com/100389529/211172933-ea2f84f6-2f81-45f9-94c4-ba1505cde2d0.gif)
+  
+  ![giphy](https://user-images.githubusercontent.com/100389529/211173011-3dcd2402-89fe-4175-a5e3-db17cb823f39.gif)
+
+  
   <p></p>
  
 - 🔭 I’m currently working on Web Developer Java Full Stack
