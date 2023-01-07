@@ -20,11 +20,9 @@
   
   </div>
   <p></p>
-  <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
-  
-  
-  
-
+  ![giphy](https://user-images.githubusercontent.com/100389529/211172933-ea2f84f6-2f81-45f9-94c4-ba1505cde2d0.gif)
+  <p></p>
+ 
 - 🔭 I’m currently working on Web Developer Java Full Stack
 - 🌱 I’m currently developing in Angular Typescript, Java and Spring.
 - 📫 How to reach me: phone: (15) 997907807 or email: rafaelrodrigues.dsg3d@gmail.com
