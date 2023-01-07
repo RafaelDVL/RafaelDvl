@@ -23,7 +23,7 @@
   
 
 - 🔭 I’m currently working on Web Developer Java Full Stack
-- 🌱 I’m currently learning Angular and Spring
+- 🌱 I’m currently developing in Angular Typescript, Java and Spring.
 - 📫 How to reach me: phone: (15) 997907807 or email: rafaelrodrigues.dsg3d@gmail.com
-- ⚡ Fun fact: I love tecnology and aquariums
+- ⚡ Hobbie: I love tecnology and aquariums
 -->
