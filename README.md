@@ -19,7 +19,7 @@
   
  </div>
  
-   ![rafaelgif ‐ Feito com o Clipchamp (1)](https://user-images.githubusercontent.com/100389529/211175343-281b2540-1095-4253-9fa0-936b158718ab.gif)
+  <p></p>
  
   
 - 🔭 I’m currently working on Web Developer Java Full Stack
