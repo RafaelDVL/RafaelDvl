@@ -21,7 +21,7 @@
   </div>
   <p></p>
   ![rafaelgif ‐ Feito com o Clipchamp (1)](https://user-images.githubusercontent.com/100389529/211175343-281b2540-1095-4253-9fa0-936b158718ab.gif)
-   
+  <p></p>
   ![giphy (1)](https://user-images.githubusercontent.com/100389529/211175351-9deded73-f1c8-4e79-b733-b1d7d1235e3b.gif)
 
 
