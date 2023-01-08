@@ -17,16 +17,11 @@
   <img align="center" alt="Rafael-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Rafael-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   
+ </div>
   
-  </div>
-  <p></p>
   ![rafaelgif ‐ Feito com o Clipchamp (1)](https://user-images.githubusercontent.com/100389529/211175343-281b2540-1095-4253-9fa0-936b158718ab.gif)
-  <p></p>
-  ![giphy (1)](https://user-images.githubusercontent.com/100389529/211175351-9deded73-f1c8-4e79-b733-b1d7d1235e3b.gif)
-
-
   
-  <p></p>
+  ![giphy (1)](https://user-images.githubusercontent.com/100389529/211175351-9deded73-f1c8-4e79-b733-b1d7d1235e3b.gif)
  
 - 🔭 I’m currently working on Web Developer Java Full Stack
 - 🌱 I’m currently developing in Angular Typescript, Java and Spring.
