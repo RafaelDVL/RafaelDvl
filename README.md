@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+  
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RafaelDvl&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RafaelDvl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
   
   <div style="display: inline_block"><br>
@@ -23,8 +28,4 @@
 - 📫 How to reach me: phone: (15) 997907807 or email: rafaelrodrigues.dsg3d@gmail.com
 - ⚡ Hobbie: I love tecnology and aquariums
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RafaelDvl&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RafaelDvl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
