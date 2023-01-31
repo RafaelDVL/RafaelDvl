@@ -9,7 +9,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Csharp" height="30" width="40"  src="https://icongr.am/devicon/csharp-original.svg" />
-  <img align="center" alt="Rafael-net" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Rafael-net" height="30" width="40"  src="https://icongr.am/devicon/dot-net-original-wordmark.svg" />
   <img align="center" alt="Rafael-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Rafael-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafael-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
