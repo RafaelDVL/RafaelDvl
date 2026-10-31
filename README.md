@@ -44,16 +44,20 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelDvl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDvl&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" alt="Estatísticas de RafaelDVL" src="https://raw.githubusercontent.com/RafaelDVL/RafaelDVL/output/stats.svg"/>
+  <img height="170em" alt="Linguagens mais usadas" src="https://raw.githubusercontent.com/RafaelDVL/RafaelDVL/output/langs.svg"/>
 </div>
 
 ---
 
-### 🐍 Contribuições
+### 🏗️ Contribuições
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelDvl/RafaelDvl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelDvl/RafaelDvl/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/RafaelDvl/RafaelDvl/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelDVL/RafaelDVL/output/crane-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelDVL/RafaelDVL/output/crane-light.svg">
+  <img alt="Guindaste 8-bit construindo o skyline das minhas contribuições" src="https://raw.githubusercontent.com/RafaelDVL/RafaelDVL/output/crane-dark.svg">
 </picture>
+
+</div>
