@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 170" width="320" height="170" role="img" aria-label="Linguagens mais usadas">
+  <style>
+    text { font-family: "Courier New", ui-monospace, monospace; }
+    .r { opacity: 0; animation: fade .5s ease-out forwards; }
+    @keyframes fade { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="319" height="169" rx="8" fill="#282a36" stroke="#44475a"/>
+  <text x="26" y="30" font-size="14" font-weight="bold" fill="#ff79c6">▚ Linguagens mais usadas</text>
+  <rect x="26" y="44" width="268" height="10" fill="#44475a"/>
+  <rect x="26.0" y="44" width="102.6" height="10" fill="#3178c6"/><rect x="128.6" y="44" width="50.9" height="10" fill="#e34c26"/><rect x="179.5" y="44" width="40.9" height="10" fill="#b07219"/><rect x="220.3" y="44" width="29.4" height="10" fill="#7355dd"/><rect x="249.7" y="44" width="23.8" height="10" fill="#f34b7d"/><rect x="273.6" y="44" width="10.4" height="10" fill="#c6538c"/><rect x="283.9" y="44" width="10.1" height="10" fill="#f1e05a"/>
+  <g class="r" style="animation-delay:0.00s">
+        <rect x="26" y="69" width="10" height="10" fill="#3178c6" shape-rendering="crispEdges"/>
+        <text x="42" y="78" font-size="11" fill="#f8f8f2">TypeScript <tspan fill="#6272a4">38.3%</tspan></text>
+      </g><g class="r" style="animation-delay:0.10s">
+        <rect x="160" y="69" width="10" height="10" fill="#e34c26" shape-rendering="crispEdges"/>
+        <text x="176" y="78" font-size="11" fill="#f8f8f2">HTML <tspan fill="#6272a4">19.0%</tspan></text>
+      </g><g class="r" style="animation-delay:0.20s">
+        <rect x="26" y="91" width="10" height="10" fill="#b07219" shape-rendering="crispEdges"/>
+        <text x="42" y="100" font-size="11" fill="#f8f8f2">Java <tspan fill="#6272a4">15.3%</tspan></text>
+      </g><g class="r" style="animation-delay:0.30s">
+        <rect x="160" y="91" width="10" height="10" fill="#7355dd" shape-rendering="crispEdges"/>
+        <text x="176" y="100" font-size="11" fill="#f8f8f2">C# <tspan fill="#6272a4">11.0%</tspan></text>
+      </g><g class="r" style="animation-delay:0.40s">
+        <rect x="26" y="113" width="10" height="10" fill="#f34b7d" shape-rendering="crispEdges"/>
+        <text x="42" y="122" font-size="11" fill="#f8f8f2">C++ <tspan fill="#6272a4">8.9%</tspan></text>
+      </g><g class="r" style="animation-delay:0.50s">
+        <rect x="160" y="113" width="10" height="10" fill="#c6538c" shape-rendering="crispEdges"/>
+        <text x="176" y="122" font-size="11" fill="#f8f8f2">SCSS <tspan fill="#6272a4">3.9%</tspan></text>
+      </g><g class="r" style="animation-delay:0.60s">
+        <rect x="26" y="135" width="10" height="10" fill="#f1e05a" shape-rendering="crispEdges"/>
+        <text x="42" y="144" font-size="11" fill="#f8f8f2">JavaScript <tspan fill="#6272a4">3.8%</tspan></text>
+      </g>
+</svg>
